@@ -1,5 +1,5 @@
 ![MasterHead](https://drive.google.com/uc?export=view&id=1sk9Y7-qUjkGDq9IU_kNpsG6gu1-oWPUn)
-<h1 align="center">Hi 👋, I'm Chanuli Pathiraja</h1>
+<h1 align="center">Hi 👋, I'm Shamalka Navod </h1>
 <h3 align="center">Information Communication Technology Undergraduate</h3>
 <img align="right" alt="Coding" width="400" src="21c6efacb4fee5ebd0fe802d1669db15"
 "
@@ -11,13 +11,13 @@
 
 - 💬 Ask me about *C,React,C#,Python,JavaScript*
 
-- 📫 How to reach me *chanulikcc@gmail.com*
+- 📫 How to reach me *shamalkanavodh24@gmail.com*
 
 - ⚡ Fun fact *I think I am too much friendly*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chanulipathiraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinukpathiraja" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ShamalkaNavod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinukpathiraja" height="30" width="40" /></a>
 
 
 </p>
